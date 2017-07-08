@@ -1,0 +1,178 @@
+#one{ 
+display:block;
+border:1px solid black; 
+padding:10px; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+width:700px; 
+margin:0 auto; 
+margin-top:10px; 
+position:relative; 
+left:40px; 
+}
+#two{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+width:700px; 
+margin-top:10px; 
+position:relative; 
+left:40px; 
+}  
+#three{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+margin-top:10px; 
+width:700px; 
+position:relative; 
+left:40px; 
+} 
+#four{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+margin-top:10px; 
+width:700px; 
+position:relative; 
+left:40px; 
+} 
+#five{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+margin-top:10px; 
+width:700px; 
+position:relative; 
+left:40px; 
+} 
+#six{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+margin-top:10px; 
+width:700px; 
+position:relative; 
+left:40px; 
+} 
+#seven{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+position:relative; 
+width:700px; 
+left:2px; 
+ } 
+#eight{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+position:relative; 
+width:700px; 
+left:42px; 
+margin-top:-10px; 
+} 
+#nine{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+position:relative; 
+width:700px; 
+left:42px; 
+margin-top:10px; 
+} 
+#ten{ 
+border:1px solid black; 
+padding:10px; 
+margin:0 auto; 
+background-color:#E5E4E2; 
+-webkit-border-radius: 8px; 
+position:relative; 
+width:700px; 
+left:42px; 
+margin-top:10px; 
+} 
+#eleven{ 
+margin-top:10px; 
+position:relative; 
+left:350px; 
+-webkit-border-radius: 8px; 
+} 
+body{ 
+background-color:#848482; 
+} 
+input[type="text"]{ 
+width: 400px; 
+-webkit-border-radius: 8px; 
+padding:10px; 
+position:relative; 
+left:90px; 
+} 
+h4{ 
+position:relative; 
+left:42px; 
+min-height:15px; 
+} 
+#post{ 
+position:relative; 
+left:75px; 
+} 
+#text2{ 
+position:relative; 
+left: 84px; 
+width:400px; 
+} 
+.tooltip { 
+    position: relative; 
+    display: inline-block; 
+    border-bottom: 1px dotted black; 
+} 
+ 
+.tooltip .tooltiptext { 
+    visibility: hidden; 
+    width: 120px; 
+    background-color: black; 
+    color: #fff; 
+    text-align: center; 
+    border-radius: 6px; 
+    padding: 5px 0; 
+     
+    /* Position the tooltip */ 
+    position: absolute; 
+    z-index: 1; 
+    top: -5px; 
+    left: 60%; 
+} 
+ 
+.tooltip:hover .tooltiptext { 
+    visibility: visible; 
+} 
+ 
+.fieldgroup{ 
+   float: left; 
+   width: auto; 
+   margin-left: 3em; 
+   position:relative; 
+   top:-45px; 
+} 
+h5{ 
+position:relative; 
+top:-20px; 
+} 
+ 

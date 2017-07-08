@@ -1,0 +1,88 @@
+<html> 
+<head> 
+<title>HTML Form</title> 
+<link rel="stylesheet" type="text/css" href="formCss.css">
+</head> 
+  <body> 
+      <div> 
+
+            <h4> 
+            Step 1:Your Details 
+            </h4> 
+ 
+           <div id="one" class="tooltip" > 
+           <label>Name</label> <input type="text" placeholder="First and last name" > 
+           <span class="tooltiptext">Enter your first and last name</span><br><br> 
+           </div> 
+
+           <div id="two" class="tooltip"> 
+           <label>Email</label> <input type="text" placeholder="example@domain.com"></input> 
+           <span class="tooltiptext">Enter your Email</span><br><br> 
+           </div> 
+
+           <div id="three" class="tooltip"> 
+           <label>Phone </label><input type="text" placeholder="e.g- 44750000000000"></input> 
+           <span class="tooltiptext">Enter your Contact Number</span><br><br> 
+           </div><br><br> 
+ 
+ 
+             <h4>
+             Step 1:Delivery Address
+             </h4> 
+ 
+             <div id="four" class="tooltip"> 
+             <label>Address</label><textarea rows="8" cols="25" id="text2"></textarea> 
+             <span class="tooltiptext">Enter your Current Address</span><br><br> 
+             </div> 
+
+            <div id="five" class="tooltip"> 
+            <label>Post Code</label><input type="text" id="post"></input> 
+            <span class="tooltiptext">Enter your area postal code</span><br><br> 
+            </div> 
+
+            <div id="six" class="tooltip"> 
+            <label>Country</label><input type="text" ></input> 
+            <span class="tooltiptext">Enter your country</span><br><br> 
+            </div> 
+ 
+             <h4>
+             Step 1:Card Details
+             </h4> 
+ 
+           <div id="seven"> 
+           <h5>Card type </h5> 
+            <div class="fieldgroup"> 
+           <input type="radio" name="card" value="VISA"> 
+           <img src="visa.png"> <span>VISA</span> 
+           </div> 
+ 
+           <div class="fieldgroup"> 
+           <input type="radio" name="card" value="amex"> 
+           <img src="visa.png"> <span>AmEx</span> 
+           </div> 
+ 
+           <div class="fieldgroup"> 
+           <input type="radio" name="card" value="mastercard"> 
+           <img src="visa.png"> <span>MasterCard</span> 
+           </div> 
+         </div> 
+ 
+          <div id="eight" class="tooltip"> 
+          <label>Card number</label><input type="text"/> 
+          <span class="tooltiptext">Enter your Card number</span><br><br> 
+          </div> 
+ 
+          <div id="nine" class="tooltip"> 
+          <label>Security code</label><input type="text"/> 
+          <span class="tooltiptext">Enter your security code</span><br><br> 
+          </div> 
+ 
+          <div id="ten" class="tooltip"> 
+          <label>Name on card</label><input type="text" placeholder="exact name on card"/> 
+          <span class="tooltiptext">Enter your name as on card</span><br><br> 
+          </div> 
+ 
+          <div id="eleven"> 
+          <button type="submit" >Buy it! </button> 
+      </body> 
+          </html> 
